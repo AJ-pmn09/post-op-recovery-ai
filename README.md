@@ -1,4 +1,4 @@
-# 🏥 Post-Operative Recovery Prediction Using AI and Wearable Data
+# 🏥 AI driven Prediction Post Surgery Recovery
 
 ## Overview
 
